@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <img align="right" src = "https://komarev.com/ghpvc/?username=rafa-thayto" alt = "rafa-thayto profile views" />
-
+  <img align="right" src = "https://komarev.com/ghpvc/?username=rafa-thayto" alt="rafa-thayto profile views" />
+  <a href="https://www.linkedin.com/in/thayto/">
+    <img align="right" alt="Rafael Thayto LinkedIn" src="https://img.shields.io/badge/-Thayto-8257E5?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rafa-thayto&show_icons=true&theme=react">
 <br>
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-thayto&layout=compact&theme=react"> -->
